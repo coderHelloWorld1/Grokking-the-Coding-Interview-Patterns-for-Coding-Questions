@@ -122,7 +122,45 @@ Coding Interview Patterns are classified according to skills level:
 [9. Ordered Set ](src/Ordered_Set)
 
 
-## 4. Installation:
+## 4. Coding Interview Preparation Roadmaps:
+
+
+#### (a) AlgoMaster Roadmap:
+
+
+    Below is a visual representation of the three main pillars that make up Data Structures and Algorithms 
+    for Coding Interview's i.e. Data Structures, Algorithms, and Problem-Solving Techniques. 
+    It demonstrates the relationship between these three pillar's of Computer Science knowledge.
+
+
+![download](https://github.com/user-attachments/assets/ef9fff3a-b37f-43b1-aae5-013a2c9fdaf9)
+
+
+*Reproduced from "How I Mastered Data Structures and Algorithms" By Ashish Pratap Singh* 
+
+*URL: https://blog.algomaster.io/p/15-leetcode-patterns*
+
+
+--------------------------------------------------------
+
+
+#### (b) Neetcode Roadmap:
+
+    Neetcode Roadmap: This is a structured approach to preparing for technical interviews, particularly 
+    for software engineering roles. It was created by NeetCode, a popular YouTube channel and website 
+    that offers a variety of resources for coding interview preparation. The roadmap is designed to help 
+    candidates tackle common interview topics in a systematic and comprehensive way.
+
+
+![Screenshot 2024-11-12 at 14 26 01](https://github.com/user-attachments/assets/a15247b6-ae3d-441a-b4b4-2609d9cfbeea)
+
+
+*Reproduced from "Neetcode Roadmap"* 
+
+*URL: https://neetcode.io/roadmap*
+
+
+## 5. Installation:
 
 i. Clone the git repo
 
@@ -137,17 +175,17 @@ iii. Explore
 😎
 
 
-## 5. Resources:
+## 6. Resources:
 
 I acknowledge the use of LeetCode for coding interview questions 👨‍💻, OpenAI's ChatGPT for topic explanation and solutions to coding questions 🤖.
 
 
-## 6. Contributing:
+## 7. Contributing:
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
-## 7. Adapted from: 
+## 8. Adapted from: 
 
 Project Name: "Grokking the Coding Interview: Patterns for Coding Questions" 
 
